@@ -3,7 +3,7 @@ Credit card fraud detection
 
 Contribution:
 
-1. Pre-processing: Normalizing and scaling
+1. Data Pre-processing: Normalizing and scaling
 
 2. Data cleaning
 
