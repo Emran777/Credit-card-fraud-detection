@@ -1,6 +1,8 @@
 # Credit-card-fraud-detection
 Credit card fraud detection
 
+Contribution:
+
 1. Pre-processing: Normalizing and scaling
 
 2. Data cleaning
